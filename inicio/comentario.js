@@ -3,8 +3,8 @@
 console.log("Ola")
 
 /* Varios
-COmentarios
-Aqui
+comentarios
+aqui
 */ 
 
 console.log("Bem vindo!")
